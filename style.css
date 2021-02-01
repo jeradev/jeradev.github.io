@@ -14,6 +14,7 @@ hr {
   border-color: #F05F44;
   border-width: 3px;
   max-width: 65px;
+  margin-bottom: 30px;
 }
 
 .buffer{
@@ -32,15 +33,15 @@ h1{
   
 }
 
-.btn-primary {
+.btn-secondary {
   background-color: #f04b2e;
   border-color: #b93a24;
 }
 
-.btn-primary:hover{
-  background-color:rgb(0, 0, 0) ;
+.btn-secondary:hover{
+  background-color:rgb(165, 44, 44) ;
   border-color: #9b2c18;
-  border-width: 3px;
+  /* border-width: 3px; */
 }
 
 .btn-xl{
